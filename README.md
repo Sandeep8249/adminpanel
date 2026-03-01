@@ -1,1 +1,1 @@
-# adminpanel
+ atype of admin panel# adminpanel
